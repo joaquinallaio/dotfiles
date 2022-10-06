@@ -62,7 +62,7 @@
         "**/vendor/**": true
     },
     "git.enabled": false,
-    "python.defaultInterpreterPath": "~/.pyenv/shims/python",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
     "python.formatting.provider": "yapf",
     "python.terminal.activateEnvironment": false,
     "ruby.lint":
